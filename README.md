@@ -1,2 +1,56 @@
-# leetcode
-LeetCode solutions organized by problem-solving patterns, with detailed explanations and complexity analysis.
+# 🚀 Data Structures & Algorithms Solutions
+
+A curated collection of LeetCode coding problems, organized cleanly by topic and pattern.
+
+<!-- Tech Badges make the project look instantly modern -->
+
+
+## 📌 Overview
+This repository is maintained as a personal DSA learning and interview
+preparation resource, with emphasis on:
+
+- Recognizing common problem-solving patterns
+- Improving algorithmic thinking
+- Writing efficient solutions
+- Understanding time and space complexity
+- Revisiting previously solved problems systematically
+
+## 🛠️ Repository Structure
+The project is structured logically by the pattern or underlying data structure:
+
+```text
+├── Hashing/
+│   ├── Two Sum/
+│   │   ├── solution.py
+│   │   └── README.md
+```
+
+## 📊 Progress
+
+| Pattern | Problems |
+|:---|---:|
+| Arrays | 0 |
+| Hashing | 1 |
+| Two Pointers | 0 |
+| Sliding Window | 0 |
+| Binary Search | 0 |
+| Stack | 0 |
+| Linked List | 0 |
+| Trees | 0 |
+| Graphs | 0 |
+| Heap | 0 |
+| Greedy | 0 |
+| Backtracking | 0 |
+| Dynamic Programming | 0 |
+| **Total** | **1** |
+
+---
+
+## 🧩 Problems Solved
+
+| # | Problem | Pattern | Difficulty | Code | Explanation |
+|:---:|:---|:---|:---:|:---:|:---:|
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/description/) | Hashing | Easy | [GitHub](./Hashing/Two%20Sum/solution.py) | [Medium](#) |
+
+
+
