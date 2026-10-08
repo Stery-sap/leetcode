@@ -1,11 +1,11 @@
-# 🚀 Data Structures & Algorithms Solutions
+# Data Structures & Algorithms Solutions
 
 A curated collection of LeetCode coding problems, organized cleanly by topic and pattern.
 
 <!-- Tech Badges make the project look instantly modern -->
 
 
-## 📌 Overview
+## Overview
 This repository is maintained as a personal DSA learning and interview
 preparation resource, with emphasis on:
 
@@ -15,7 +15,7 @@ preparation resource, with emphasis on:
 - Understanding time and space complexity
 - Revisiting previously solved problems systematically
 
-## 🛠️ Repository Structure
+## Repository Structure
 The project is structured logically by the pattern or underlying data structure:
 
 ```text
