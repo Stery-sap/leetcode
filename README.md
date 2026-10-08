@@ -51,6 +51,8 @@ The project is structured logically by the pattern or underlying data structure:
 | # | Problem | Pattern | Difficulty | Code | Explanation |
 |:---:|:---|:---|:---:|:---:|:---:|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/description/) | Hashing | Easy | [GitHub](./Hashing/Two%20Sum/solution.py) | [Medium](#) |
+| 2 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/) | Dynamic Programming | Easy | [GitHub](./Dynamic%20Programming/Pascal's%20Triangle/solution.py) | [Medium](#) |
+| 3 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) | Binery Search | Hard | [GitHub](./Binary%20Search/Median%20of%20Two%20Sorted%20Arrays/solution.py) | [Medium](#) |
 
 
 
