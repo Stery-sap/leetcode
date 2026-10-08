@@ -33,7 +33,7 @@ The project is structured logically by the pattern or underlying data structure:
 | Hashing | 1 |
 | Two Pointers | 0 |
 | Sliding Window | 0 |
-| Binary Search | 0 |
+| Binary Search | 1 |
 | Stack | 0 |
 | Linked List | 0 |
 | Trees | 0 |
@@ -41,8 +41,8 @@ The project is structured logically by the pattern or underlying data structure:
 | Heap | 0 |
 | Greedy | 0 |
 | Backtracking | 0 |
-| Dynamic Programming | 0 |
-| **Total** | **1** |
+| Dynamic Programming | 1 |
+| **Total** | **3** |
 
 ---
 
