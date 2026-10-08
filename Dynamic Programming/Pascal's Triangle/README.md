@@ -1,4 +1,4 @@
-# Two Sum
+# Pascal's Triangle
 
 - **LeetCode:** [#118 - Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
 - **Pattern:** Dynamic Programming
